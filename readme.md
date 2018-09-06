@@ -1,4 +1,4 @@
-## Persiapan Install
+## Prerequisites
 ```
 composer update
 php artisan key:generate
