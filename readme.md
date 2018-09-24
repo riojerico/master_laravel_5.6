@@ -3,6 +3,10 @@
 composer update
 php artisan key:generate
 ```
+linux
+```
+chmod -R 777 {dir}
+```
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
